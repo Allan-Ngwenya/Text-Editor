@@ -14,6 +14,7 @@ The project is to build a text editor that runs in the browser. The app will be 
 - ajax
 - Google Fonts 
 - CSS3
+- express
 - Chrome Dev Tools
 - CodeMirror
 - workbox
