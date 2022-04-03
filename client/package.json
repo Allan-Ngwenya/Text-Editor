@@ -1,5 +1,7 @@
 {
 	"name": "text-editor",
+	"description": "text editor",
+	"version": "1.0.0",
 	"engines:": {
 		"node": "17.8.0",
 		"npm": "8.5.5"
