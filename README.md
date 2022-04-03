@@ -11,6 +11,7 @@ The project is to build a text editor that runs in the browser. The app will be 
 - Github Pages
 - HTML5
 - Javscript
+- ajax
 - Google Fonts 
 - CSS3
 - Chrome Dev Tools
